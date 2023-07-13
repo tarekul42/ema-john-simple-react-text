@@ -1,0 +1,29 @@
+.product-container{
+    width: 350px;
+    border: 2px solid rgb(205, 204, 204);
+    border-radius: 10px;
+    position: relative;
+
+}
+.product-container-without-btn{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.product-container img{
+    width: 100%;
+    border-radius: 10px;
+}
+.product-text{
+    padding: 10px;
+}
+.add-to-cart-button{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+    border-radius: 0px 0px 10px 10px;
+    height: 40px;
+    background-color: rgb(251, 210, 210);
+    border: none;
+    font-size: 1rem;
+}
